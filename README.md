@@ -1,1 +1,0 @@
-# -cryptopump-binance-bot
